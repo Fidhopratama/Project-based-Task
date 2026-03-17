@@ -3,14 +3,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Form Sederhana</title>
+    <title>Form tugas hari raya</title>
     <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 
 <div class="wrapper">
     <div class="card">
-        <h2>Form Input</h2>
+        <h2>ARDAN GUANTENGGGGG</h2>
 
         <form method="POST">
             <input type="text" name="firstname" placeholder="Firstname" required>
