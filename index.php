@@ -10,7 +10,7 @@
 
 <div class="wrapper">
     <div class="card">
-        <h2>ARDAN GUANTENGGGGG</h2>
+        <h2>ARDAN DAPAT 1M PERTAMA DIUSIA 20 TAHUN</h2>
 
         <form method="POST">
             <input type="text" name="firstname" placeholder="Firstname" required>
